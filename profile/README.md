@@ -1,1 +1,1 @@
-[![Infisical (1)](/profile/infisical.png)](https://infisical.com)
+[![Infisical](/profile/infisical_github_repo.png)](https://infisical.com)
