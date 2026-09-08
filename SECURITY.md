@@ -8,15 +8,15 @@ Report it through our vulnerability disclosure policy at <https://infisical.com/
 
 Please include what you found, where, how to reproduce it, what an attacker could achieve, and how you would like to be credited.
 
-This policy is the default for every repository in the Infisical organisation. Where a repository ships its own `SECURITY.md`, that file takes precedence.
+This policy is the default for every repository in the Infisical organization. Where a repository ships its own `SECURITY.md`, that file takes precedence.
 
-## Scope and safe harbour
+## Scope and safe harbor
 
-The full scope of the program, along with our safe harbour and coordinated disclosure terms, is set out in the policy linked above.
+The full scope of the program, along with our safe harbor and coordinated disclosure terms, is set out in the policy linked above.
 
 ## Rewards
 
-**This is a vulnerability disclosure program, not a bug bounty.** It offers acknowledgement and public credit rather than payment.
+**This is a vulnerability disclosure program, not a bug bounty.** It offers acknowledgment and public credit rather than payment.
 
 Infisical's paid bug bounty is a separate **private, invitation-only program** covering Infisical Cloud. It is not open to public submissions, and reports made through our public repositories are not eligible for its rewards. Strong reports here are a good route to an invitation.
 
